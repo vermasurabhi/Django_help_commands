@@ -6,7 +6,7 @@
 ## For changing username password
 * python manage.py changepassword *username*
 
-## How to all the username through shell
+## How to get all the username through shell
 * python manage.py shell
 * from django.contrib.auth.models import User
 * all_users = User.objects.all()
