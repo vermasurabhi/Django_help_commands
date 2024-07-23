@@ -13,3 +13,6 @@
 * for user in all_users:
     print(user.username)
 
+## Server Check and Stop CMD command
+* netstat -ano
+* taskkill /F /PID 18128
